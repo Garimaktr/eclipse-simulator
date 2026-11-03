@@ -1,0 +1,15 @@
+# Compiled executables
+/eclipse
+/eclipse_sim
+/eclipse_sim.exe
+
+# Compiled object files
+*.o
+*.obj
+
+# Generated frame renders
+*.ppm
+
+# Operating-system files
+.DS_Store
+Thumbs.db
